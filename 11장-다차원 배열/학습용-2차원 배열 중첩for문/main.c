@@ -6,7 +6,7 @@ int main(void)
 
     for(i = 0; i < 2; i++){
         for(j = 0; j < 2; j++){
-            printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+            printf("ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš” : ");
             scanf("%d", &array[i][j]);
         }
     }
