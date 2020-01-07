@@ -25,7 +25,6 @@ int main()
 		printf("  \t%d\t\t      %d\t\t    %d\t\t       %d\t       %d\n", n, result1, result2, result3, result4);
 		n += 1;
 	 } 
-	system("pause");
 	return 0;
  }
  

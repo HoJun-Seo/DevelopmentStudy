@@ -11,7 +11,6 @@ int main()
 	}
 	rabbit(a, month);
 	
-	system("pause");
 	return 0;	
  }
  

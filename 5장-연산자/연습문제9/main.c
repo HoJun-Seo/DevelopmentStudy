@@ -8,6 +8,5 @@ int main()
 	scanf("%f", &pound);
 	kilo = pound * 0.45;
 	printf("입력받은 파운드 단위를 킬로그램으로 환산하면 %f kg 입니다. \n", kilo);
-	system("pause");
 	return 0; 
  } 

@@ -12,6 +12,5 @@ int main()
 		printf("%d * %d = %d \n", i, k, array[j]);
 		k++;
 	}
-	system("pause");
 	return 0;
 }

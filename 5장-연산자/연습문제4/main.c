@@ -15,7 +15,6 @@ int main()
 	result2 = (result1 > c) ? result1 : c;
 	
 	printf("셋 중 가장 큰 수는 %d 입니다. \n", result2);
-	system("pause");
 	return 0;
 	
  } 

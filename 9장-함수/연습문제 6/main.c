@@ -15,7 +15,6 @@ int main()
 	    printf("µ¡¼À °á°ú : %d \n", result);
 	}
 	printf("ÃÑ ¿¬»ê ¼ö : %d \n", count);
-	system("pause");
 	return 0;
 }
 

@@ -9,6 +9,5 @@ int main()
 	
 	a = (x < y || x < z) && z < k;
 	printf("°á°ú °ª2 a : %d \n", a);
-	system("pause");
 	return 0;
  } 

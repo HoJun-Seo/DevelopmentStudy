@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {  
-	int i;
+	int i = 0;
 	char array1[5] = {'A', 'B', 'C', 'D', 'E'};
 	int array2[5] = {10, 20, 30, 40, 50};
 	double array3[5] = {10.1, 20.2, 30.3, 40.4, 50.5};
@@ -36,7 +36,5 @@ int main()
 		printf("%.1lf ", *&array3[i]);
 	}
 	printf("\n");
-	
-	system("pause");
 	return 0;
 }

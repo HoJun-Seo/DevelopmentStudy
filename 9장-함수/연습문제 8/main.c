@@ -9,7 +9,6 @@ int main()
 	scanf("%d", &n);
 	result = cycle(n);
 	printf("1부터 %d 까지의 합 = %d \n", n, result);
-	system("pause");
 	return 0;
  }
  

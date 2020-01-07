@@ -9,7 +9,5 @@ int main()
 	{
 		printf("%.1lf * %.1lf = %.2lf \n", array1[i], array2[i], array1[i] * array2[i]);
 	}
-	
-	system("pause");
 	return 0;
 }

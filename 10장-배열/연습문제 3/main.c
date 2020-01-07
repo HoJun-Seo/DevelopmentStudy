@@ -46,8 +46,6 @@ int main()
 		result = result + row[i];
 	}
 	printf("모든 수의 합 : %d \n", result);
-	
-	system("pause");
 	return 0;
 }
 

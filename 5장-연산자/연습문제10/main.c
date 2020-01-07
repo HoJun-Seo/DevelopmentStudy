@@ -10,6 +10,5 @@ int main()
 	cent = feet * 30.48;
 	met = cent / 100;
 	printf("현재 지상으로 부터의 고도를 미터로 환산하면 %f 미터 입니다. \n", met);
-	system("pause");
 	return 0; 
  } 
