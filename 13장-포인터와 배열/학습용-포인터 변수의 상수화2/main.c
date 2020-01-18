@@ -15,7 +15,7 @@ int main(void)
 
     a = 'X';
     b = 'C';
-    printf("%c %c\n", b, *p);
+    *p = 'D'; //*p 를 통해 값을 변경하는 것은 불가능하다.
 
     return 0;
 }
